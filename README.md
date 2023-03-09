@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&locale=cn)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speechless22&layout=compact&theme=transparent&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 - 🔭 I’m currently working on ...
