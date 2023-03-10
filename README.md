@@ -2,4 +2,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true)  
 ![trophy](https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai)  
-![GitHub Streak](https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true)  
+<!--START_SECTION:activity-->
