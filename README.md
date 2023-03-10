@@ -1,3 +1,3 @@
-![Moe-Counter](https://Moe-Counter.speechless22.repl/get/@:Speechless22?theme=asoul)  
+![Moe-Counter](https://Moe-Counter.speechless22.repl:3000/get/@:Speechless22?theme=asoul)  
 ![Anurag's GitHub stats](https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&card_width=720px)  
 ![Top Langs](https://github-readme-stats-speechless.vercel.app/api/top-langs/?username=Speechless22&layout=compact&theme=transparent&card_width=720px)
