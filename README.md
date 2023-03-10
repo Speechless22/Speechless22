@@ -4,3 +4,6 @@
 ![trophy](https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai)  
 ![GitHub Streak](https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true)  
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#240](https://github.com/Hagb/docker-easyconnect/issues/240) in [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect)
+2. ❗️ Opened issue [#240](https://github.com/Hagb/docker-easyconnect/issues/240) in [Hagb/docker-easyconnect](https://github.com/Hagb/docker-easyconnect)
+<!--END_SECTION:activity-->
