@@ -20,7 +20,7 @@
   <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="45%">
 </picture>
 
-[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="51%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
+[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="50%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
 <picture>
   <img align="middle" src="https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai" alt="Trophy" width="100%">
 </picture>
