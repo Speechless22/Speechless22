@@ -6,6 +6,8 @@
 </picture>
 <picture>
   <img src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats">
+</picture>
+<picture>
   <img src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs">
 </picture>
 <picture>
