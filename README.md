@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=How+vexingly+quick+daft+zebras+jump;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" width="100%">
 </picture>
 <picture>
-  <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="50%">
+  <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="60%">
 </picture>
 <picture>
   <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon">
