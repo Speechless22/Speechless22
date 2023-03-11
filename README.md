@@ -1,4 +1,7 @@
 <picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=How+vexingly+quick+daft+zebras+jump;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" width="100%">
+</picture>
+<picture>
   <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter">
 </picture>
 <picture>
