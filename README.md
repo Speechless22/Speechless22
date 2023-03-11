@@ -17,7 +17,7 @@
   <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
 </picture>
 <picture>
-  <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true" alt="GitHub Streak" width="43%">
+  <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="43%">
 </picture>
 
 [<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="51%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
@@ -25,9 +25,9 @@
   <img align="middle" src="https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai" alt="Trophy" width="100%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 <!--START_SECTION:waka-->
 
