@@ -1,9 +1,11 @@
 <picture>
   <img src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter">
-  <img src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon">
-  <img src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats">
 </picture>
 <picture>
+  <img src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon">
+</picture>
+<picture>
+  <img src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats">
   <img src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs">
   <img src="https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai" alt="Trophy">
   <img src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true" alt="GitHub Streak">
