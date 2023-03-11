@@ -1,4 +1,4 @@
-![Moe-Counter](https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul)![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)  
+![Moe-Counter](https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul)![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)  
 ![Anurag's GitHub stats](https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true)
 <!--START_SECTION:waka-->
