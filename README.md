@@ -9,4 +9,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 ![trophy](https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai)  
-![GitHub Streak](https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true)[![spotify-github-profile](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
+![GitHub Streak](https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark&hide_border=true)[![spotify-github-profile](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg">
+</picture>
