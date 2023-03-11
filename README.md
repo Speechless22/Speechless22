@@ -17,7 +17,7 @@
   <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
 </picture>
 <picture>
-  <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="43%">
+  <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="44%">
 </picture>
 
 [<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="51%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
