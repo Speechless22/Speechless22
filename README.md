@@ -19,13 +19,12 @@
 <picture>
   <img src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
 </picture>
+[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg">
 </picture>
-
-[<img src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
 <!--START_SECTION:waka-->
 
 ```text
