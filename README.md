@@ -13,14 +13,9 @@
 <picture>
   <img align="right" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
 </picture>
-<div style="display: inline-block">
-  <p>
-  
-  </p>
-  <picture>
-    <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
-  </picture>
-</div>
+<picture>
+  <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
+</picture>
 <picture>
   <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="45%">
 </picture>
