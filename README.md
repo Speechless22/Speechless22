@@ -5,7 +5,7 @@
   <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="60%">
 </picture>
 <picture>
-  <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon">
+  <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon" width="40%">
 </picture>
 <picture>
   <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="50%">
