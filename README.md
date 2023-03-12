@@ -20,9 +20,6 @@
 [<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="50%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
 
 <picture>
-  <img src="https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai" alt="Trophy" width="100%">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg" width="100%">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg" width="100%">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake.svg" width="100%">
@@ -39,6 +36,9 @@ Other      23 mins         +++++--------------------   18.09 %
 ```
 
 <!--END_SECTION:waka-->
+<picture>
+  <img src="https://github-profile-trophy-speechless.vercel.app?username=Speechless22&column=-1&no-bg=true&no-frame=true&theme=monokai" alt="Trophy" width="100%">
+</picture>
 <picture>
   <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
