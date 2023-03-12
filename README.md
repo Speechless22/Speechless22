@@ -16,7 +16,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 <picture>
-  <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics" width="50%">
+  <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics" width="60%">
 </picture>
 <picture>
   <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="45%">
