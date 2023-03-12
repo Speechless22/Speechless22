@@ -8,16 +8,16 @@
   <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon" width="15%">
 </picture>
 <picture>
-  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="50%">
+  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="45%">
 </picture>
 <picture>
-  <img align="right" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
+  <img align="right" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="50%">
 </picture>
 <picture>
-  <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="45%">
+  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
 </picture>
 
-[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="50%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
+[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="60%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg" width="100%">
