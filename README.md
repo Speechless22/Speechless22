@@ -13,12 +13,12 @@
 <picture>
   <img align="right" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
 </picture>
-<div style="display: grid">
+<div style="display: inline-block">
   <p>
-  TTTTTTTTTTTTTTTTTTTTTTT
+  
   </p>
   <picture>
-    <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics" width="50%">
+    <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
   </picture>
 </div>
 <picture>
