@@ -9,12 +9,14 @@
     <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon">
   </picture>
 </div>
-<picture>
-  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="50%">
-</picture>
-<picture>
-  <img align="right" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
-</picture>
+<div style="display: inline-block;">
+  <picture>
+    <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="50%">
+  </picture>
+  <picture>
+    <img align="right" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
+  </picture>
+</div>
 <div style="display: inline-block;">
   <picture>
     <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
