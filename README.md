@@ -21,6 +21,7 @@
   <picture>
     <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
   </picture>
+  <span>文本内容</span>
 </div>
 <picture>
   <img align="left" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="45%">
