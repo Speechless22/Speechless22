@@ -13,6 +13,14 @@
 <picture>
   <img align="right" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
 </picture>
+<table><tr><td valign="top" width="33%">
+
+### Recent releases
+<!-- recent_releases starts -->
+[apple-notes-to-sqlite 0.1](https://github.com/dogsheep/apple-notes-to-sqlite/releases/tag/0.1) - 2023-03-09
+
+</td><td width="100%">
+
 <picture>
   <img align="right" src="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-metrics.svg" alt="Metrics">
 </picture>
