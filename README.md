@@ -36,8 +36,8 @@ From: 09 March 2023 - To: 11 March 2023
 
 Total Time: 2 hrs 10 mins
 
-Markdown   1 hr 44 mins    ████████████████████░░░░░   80.16 %
-Other      23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+Markdown   1 hr 44 mins    ++++++++++++++++++++-----   80.16 %
+Other      23 mins         +++++--------------------   18.09 %
 ```
 
 <!--END_SECTION:waka-->
