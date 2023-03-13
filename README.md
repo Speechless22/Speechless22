@@ -8,7 +8,7 @@
   <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon" width="15%">
 </picture>
 <picture>
-  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="45%">
+  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="42%">
 </picture>
 <picture>
   <img align="right" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="50%">
