@@ -9,10 +9,10 @@
 </picture>
 <picture>
   <img align="left" src="https://github-readme-stats-speechless.vercel.app/api?username=Speechless22&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" width="45%">
-</picture><picture>
+</picture>
+<picture>
   <img align="right" src="https://github-readme-streak-stats-speechless.vercel.app?user=Speechless22&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" width="50%">
 </picture>
-
 <picture>
   <img align="left" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="35%">
 </picture>
