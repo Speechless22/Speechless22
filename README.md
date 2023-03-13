@@ -14,10 +14,10 @@
 </picture>
 
 <picture>
-  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="40%">
+  <img align="left" src="https://github-readme-stats-speechless.vercel.app/api/top-langs?username=Speechless22&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="35%">
 </picture>
 
-[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="60%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
+[<img align="right" src="https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify-Github-Profile" width="55%">](https://spotify-github-profile-speechless.vercel.app/api/view?uid=wb79yl20xdk5sbtru65bvgvh1&redirect=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Speechless22/Speechless22/output/github-contribution-grid-snake-dark.svg" width="100%">
@@ -27,12 +27,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 11 March 2023
+From: 09 March 2023 - To: 12 March 2023
 
-Total Time: 2 hrs 10 mins
+Total Time: 3 hrs 43 mins
 
-Markdown   1 hr 44 mins    ++++++++++++++++++++-----   80.16 %
-Other      23 mins         +++++--------------------   18.09 %
+Markdown     3 hrs 14 mins   ++++++++++++++++++++++---   86.82 %
+Other        23 mins         +++----------------------   10.53 %
 ```
 
 <!--END_SECTION:waka-->
