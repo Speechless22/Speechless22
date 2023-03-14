@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=How+vexingly+quick+daft+zebras+jump;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" width="100%">
+  <img src="https://readme-typing-svg-speechless.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz" alt="Typing SVG" width="100%">
 </picture>
 <picture>
   <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="60%">
