@@ -27,13 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 03 April 2023
+From: 09 March 2023 - To: 04 April 2023
 
-Total Time: 26 hrs 27 mins
+Total Time: 33 hrs 35 mins
 
-YAML             11 hrs 36 mins  +++++++++++--------------   43.85 %
-Markdown         5 hrs 9 mins    +++++--------------------   19.51 %
-Other            4 hrs 21 mins   ++++---------------------   16.46 %
+YAML             16 hrs 55 mins  +++++++++++++------------   50.39 %
+Bash             5 hrs 56 mins   ++++---------------------   17.70 %
+Markdown         5 hrs 9 mins    ++++---------------------   15.36 %
+Other            4 hrs 21 mins   +++----------------------   12.96 %
 ```
 
 <!--END_SECTION:waka-->
