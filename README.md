@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 06 November 2023
+From: 09 March 2023 - To: 07 November 2023
 
-Total Time: 74 hrs 4 mins
+Total Time: 75 hrs 45 mins
 
-YAML                  27 hrs 2 mins   +++++++++----------------   36.50 %
-C                     14 hrs 47 mins  +++++--------------------   19.96 %
-Bash                  9 hrs 41 mins   +++----------------------   13.08 %
-Markdown              8 hrs 22 mins   +++----------------------   11.31 %
-Other                 5 hrs 7 mins    ++-----------------------   06.92 %
+YAML                  27 hrs 2 mins   +++++++++----------------   35.69 %
+C                     15 hrs 41 mins  +++++--------------------   20.72 %
+Bash                  9 hrs 41 mins   +++----------------------   12.79 %
+Markdown              9 hrs           +++----------------------   11.89 %
+Other                 5 hrs 7 mins    ++-----------------------   06.77 %
 ```
 
 <!--END_SECTION:waka-->
