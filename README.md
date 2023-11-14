@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://readme-typing-svg-speechless.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz" alt="Typing SVG" width="100%">
+  <img src="https://readme-typing-svg-speechless.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E3%81%9D%E3%81%93%E3%81%AB%E6%9C%AC%E7%89%A9%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E6%84%8F%E5%BF%97%E3%81%8C%E3%81%82%E3%82%8B%E3%81%A0%E3%81%91%E3%80%81%E5%81%BD%E7%89%A9%E3%81%AE%E3%81%BB%E3%81%86%E3%81%8C%E6%9C%AC%E7%89%A9%E3%82%88%E3%82%8A%E3%82%82%E6%9C%AC%E7%89%A9%E3%81%A0%E2%94%80%E2%94%80%E3%81%8B%E3%81%8B%E3%81%A3;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz" alt="Typing SVG" width="100%">
 </picture>
 <picture>
   <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="60%">
