@@ -7,7 +7,7 @@
 </picture>
 
 <picture>
-  <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon" width="15%">
+  <img align="right" src="https://moon-svg-speechless.vercel.app/moon.svg?theme=ray&rotate=0" alt="Moon" width="18%">
 </picture>
 
 <picture>
