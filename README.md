@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://readme-typing-svg-speechless.herokuapp.com?font=Reggae+One&pause=1000&center=true&vCenter=true&width=435&lines=%E6%9C%AC%E7%89%A9%E4%BB%A5%E4%B8%8A%E3%81%AE%E5%8A%9B%E3%82%92%E6%8C%81%E3%81%A4%E5%81%BD%E7%89%A9%E3%81%AA%E3%82%93%E3%81%A6;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz" alt="Typing SVG" width="100%">
+  <img src="https://readme-typing-svg-speechless.herokuapp.com?font=Reggae+One&size=16&pause=1000&center=true&vCenter=true&width=512&lines=%E6%97%A7%E3%82%AD%E3%82%B9%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%BB%E3%82%A2%E3%82%BB%E3%83%AD%E3%83%A9%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89;%E6%9C%AC%E7%89%A9%E4%BB%A5%E4%B8%8A%E3%81%AE%E5%8A%9B%E3%82%92%E6%8C%81%E3%81%A4%E5%81%BD%E7%89%A9%E3%81%AA%E3%82%93%E3%81%A6;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz" alt="Typing SVG" width="100%">
 </picture>
 
 <picture>
