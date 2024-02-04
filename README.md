@@ -33,15 +33,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 02 February 2024
+From: 09 March 2023 - To: 03 February 2024
 
-Total Time: 438 hrs 20 mins
+Total Time: 442 hrs 30 mins
 
-C                      274 hrs 32 mins ++++++++++++++++---------   62.63 %
-Kotlin                 48 hrs 42 mins  +++----------------------   11.11 %
-YAML                   27 hrs 2 mins   ++-----------------------   06.17 %
-XML                    25 hrs 21 mins  +------------------------   05.79 %
-INI                    18 hrs 13 mins  +------------------------   04.16 %
+C                      277 hrs 14 mins ++++++++++++++++---------   62.65 %
+Kotlin                 50 hrs 10 mins  +++----------------------   11.34 %
+YAML                   27 hrs 2 mins   ++-----------------------   06.11 %
+XML                    25 hrs 21 mins  +------------------------   05.73 %
+INI                    18 hrs 14 mins  +------------------------   04.12 %
 ```
 
 <!--END_SECTION:waka-->
