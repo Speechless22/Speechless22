@@ -33,14 +33,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 06 April 2024
+From: 09 March 2023 - To: 07 April 2024
 
 Total Time: 481 hrs 6 mins
 
 C                      298 hrs 26 mins ++++++++++++++++---------   62.03 %
 Kotlin                 61 hrs 31 mins  +++----------------------   12.79 %
 YAML                   27 hrs 2 mins   +------------------------   05.62 %
-XML                    26 hrs 4 mins   +------------------------   05.42 %
+XML                    26 hrs 5 mins   +------------------------   05.42 %
 INI                    19 hrs 39 mins  +------------------------   04.09 %
 ```
 
