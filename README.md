@@ -3,7 +3,7 @@
 </picture>
 
 <picture>
-  <img align="left" src="https://Moe-Counter.speechless22.repl.co/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="60%">
+  <img align="left" src="https://count.getloli.com/get/@:Speechless22?theme=asoul" alt="Moe-Counter" width="60%">
 </picture>
 
 <picture>
