@@ -33,9 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 24 December 2024
+From: 09 March 2023 - To: 25 December 2024
 
-Total Time: 1,383 hrs 17 mins
+Total Time: 1,383 hrs 18 mins
 
 Kotlin                 790 hrs 34 mins ++++++++++++++-----------   57.15 %
 C                      305 hrs 41 mins ++++++-------------------   22.10 %
