@@ -33,15 +33,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 23 November 2025
+From: 09 March 2023 - To: 24 November 2025
 
-Total Time: 2,296 hrs 3 mins
+Total Time: 2,301 hrs 59 mins
 
-Kotlin                 1,200 hrs 44 mins+++++++++++++------------   52.30 %
-C                      326 hrs 2 mins  ++++---------------------   14.20 %
-Dart                   199 hrs 54 mins ++-----------------------   08.71 %
-C++                    185 hrs 14 mins ++-----------------------   08.07 %
-Java                   43 hrs 49 mins  -------------------------   01.91 %
+Kotlin                 1,201 hrs 38 mins+++++++++++++------------   52.20 %
+C                      326 hrs 8 mins  ++++---------------------   14.17 %
+Dart                   199 hrs 54 mins ++-----------------------   08.68 %
+C++                    189 hrs 41 mins ++-----------------------   08.24 %
+Java                   43 hrs 49 mins  -------------------------   01.90 %
 ```
 
 <!--END_SECTION:waka-->
