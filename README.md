@@ -33,15 +33,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2023 - To: 23 April 2026
+From: 09 March 2023 - To: 24 April 2026
 
-Total Time: 2,756 hrs 40 mins
+Total Time: 2,764 hrs 1 min
 
-Kotlin                 1,249 hrs 41 mins     +++++++++++--------------   45.33 %
-C++                    405 hrs 24 mins       ++++---------------------   14.71 %
-C                      332 hrs 39 mins       +++----------------------   12.07 %
-Dart                   208 hrs 29 mins       ++-----------------------   07.56 %
-CMake                  58 hrs 23 mins        +------------------------   02.12 %
+Kotlin                 1,249 hrs 41 mins     +++++++++++--------------   45.21 %
+C++                    406 hrs 30 mins       ++++---------------------   14.71 %
+C                      332 hrs 57 mins       +++----------------------   12.05 %
+Dart                   208 hrs 29 mins       ++-----------------------   07.54 %
+CMake                  58 hrs 30 mins        +------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
